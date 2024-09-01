@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "ec70831ee9c6a83d1db81b684f3f61da",
+    "packages": [
+        {
+            "name": "moxxie/moxrouter",
+            "version": "0.2.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Moxxie/MoxRouter.git",
+                "reference": "17f51b004e50bd2653ee709b906c2a4dd0de9b30"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Moxxie/MoxRouter/zipball/17f51b004e50bd2653ee709b906c2a4dd0de9b30",
+                "reference": "17f51b004e50bd2653ee709b906c2a4dd0de9b30",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Moxxie\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "support": {
+                "issues": "https://github.com/Moxxie/MoxRouter/issues",
+                "source": "https://github.com/Moxxie/MoxRouter/tree/0.2.6"
+            },
+            "time": "2019-09-08T09:29:53+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}

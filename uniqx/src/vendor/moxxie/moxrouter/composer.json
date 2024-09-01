@@ -1,0 +1,8 @@
+{
+  "name": "moxxie/moxrouter",
+  "version": "0.2.6",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {"Moxxie\\": "src/"}
+  }
+}

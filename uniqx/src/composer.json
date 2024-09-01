@@ -1,0 +1,13 @@
+{
+    "require": {
+        "moxxie/moxrouter": "^0.2.0"
+    },
+    "autoload": {
+        "files": [
+            "includes/config.php",
+            "includes/classes/Utils.php",
+            "includes/modules/Sha1img.php",
+            "includes/routes.php"
+        ]
+    }
+}

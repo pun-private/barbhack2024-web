@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  webapp:
+    build: .
+    restart: always
+    ports:
+      - "45001:5000"

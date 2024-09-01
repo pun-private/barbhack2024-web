@@ -1,0 +1,39 @@
+{
+    "packages": [
+        {
+            "name": "moxxie/moxrouter",
+            "version": "0.2.6",
+            "version_normalized": "0.2.6.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Moxxie/MoxRouter.git",
+                "reference": "17f51b004e50bd2653ee709b906c2a4dd0de9b30"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Moxxie/MoxRouter/zipball/17f51b004e50bd2653ee709b906c2a4dd0de9b30",
+                "reference": "17f51b004e50bd2653ee709b906c2a4dd0de9b30",
+                "shasum": ""
+            },
+            "time": "2019-09-08T09:29:53+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Moxxie\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "support": {
+                "issues": "https://github.com/Moxxie/MoxRouter/issues",
+                "source": "https://github.com/Moxxie/MoxRouter/tree/0.2.6"
+            },
+            "install-path": "../moxxie/moxrouter"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
